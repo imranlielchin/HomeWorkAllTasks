@@ -1,0 +1,15 @@
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\bin\Debug\net6.0\HomeWORKALLTASKS.exe
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\bin\Debug\net6.0\HomeWORKALLTASKS.deps.json
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\bin\Debug\net6.0\HomeWORKALLTASKS.runtimeconfig.json
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\bin\Debug\net6.0\HomeWORKALLTASKS.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\bin\Debug\net6.0\HomeWORKALLTASKS.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.csproj.AssemblyReference.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.AssemblyInfoInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.AssemblyInfo.cs
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.csproj.CoreCompileInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\refint\HomeWORKALLTASKS.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\HomeWORKALLTASKS.genruntimeconfig.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWORKALLTASKS\HomeWORKALLTASKS\obj\Debug\net6.0\ref\HomeWORKALLTASKS.dll
